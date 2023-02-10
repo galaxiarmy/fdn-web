@@ -1,0 +1,12 @@
+.navbar_type {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    width: 49%
+}
+
+.navbar_title {
+    font-weight: bold;
+    cursor: pointer;
+}
